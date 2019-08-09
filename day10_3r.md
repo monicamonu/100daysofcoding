@@ -1,4 +1,5 @@
-## If the number is a multiple of 5, it prints "Mugs".JugsMugsPugs 
+## JugsMugsPugs 
+## If the number is a multiple of 5, it prints "Mugs".
 ## Write a program that receives a number on the input.
 ## If the number is a multiple of 3, it prints "Jugs". 
 ## If the number is a multiple of 5, it prints "Mugs".
