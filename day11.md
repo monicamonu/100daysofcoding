@@ -19,7 +19,7 @@ INPUT
 OUTPUT
 True
 ```
-###code
+### code
 ```
 digit_c = input()
 number_s = input() 
