@@ -18,8 +18,11 @@ INPUT
 OUTPUT
 112
 ```
+### code
+```
 number=int(input())
 if(number%3==0):
   print("Jugs")
 else:
   print(number)
+```
