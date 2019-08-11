@@ -21,7 +21,9 @@ Example input #2
 
 Example output #2
 50
-```
+``
+### code
+````
 hour=int(input())
 minutes=int(input())
 seconds=int(input())
@@ -35,6 +37,6 @@ total_seconds2 = (hr1 * 3600 + (min1 * 60 + (sec1*1)))
 tot_sec = total_seconds2 - total_seconds1
 
 print(tot_sec)
-
+```
 
 
