@@ -19,6 +19,8 @@ INPUT
 112
 OUTPUT 112
 ```
+### code
+```
 number=int(input())
 if(number%5==0 and number%3==0):
   print("JugsMugs")
@@ -28,3 +30,4 @@ elif(number%3==0):
   print("Jugs")
 else:
   print(number)
+```
