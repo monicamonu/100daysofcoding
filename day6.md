@@ -13,8 +13,10 @@ Example input
 Example output
 1 65
 ```
-
+### code
+```
 n = int(input())
 no_of_hours = n//3600
 no_of_minutes = n//60
 print(no_of_hours , no_of_minutes)
+```
