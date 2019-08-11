@@ -7,6 +7,8 @@ Example input
 Example output
 6
 ```
+### code
+```
 a=int(input())
 sum=0
 while a>0:
@@ -14,3 +16,4 @@ while a>0:
   a=a//10
   sum=sum+dig
 print(sum)
+```
