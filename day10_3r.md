@@ -30,6 +30,8 @@ INPUT
 OUTPUT 
 JugsMugsPugs
 ```
+### code
+```
 num= int(input())
 if(num%3==0 and num%5==0 and num%7==0):
   print("JugsMugsPugs")
@@ -47,3 +49,4 @@ elif(num%7==0):
   print("Pugs")
 else:
   print(num)
+```
