@@ -7,6 +7,8 @@ Harry
 Example output
 Hello, Harry!
 ```
-
+### code
+```
 a=input()
 print('Hello, '+a+'!')
+```
