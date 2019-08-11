@@ -10,7 +10,10 @@ Example output
 8
 2
 ```
+### code
+```
 n = int(input())
 k = int(input())
 print(k//n)
 print(k%n)
+```
