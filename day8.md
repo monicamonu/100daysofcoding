@@ -25,6 +25,8 @@ OUTPUT
 5
 
 ```
+
+### code
 ```
 # get the x coordinate of Point 1
 x1 = int(input())  
